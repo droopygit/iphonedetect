@@ -1,0 +1,314 @@
+[
+    {
+        "resolution": "1024x1366",
+        "model": "iPad Pro (6th gen 12.9”)"
+    },
+    {
+        "resolution": "834x1194",
+        "model": "iPad Pro (6th gen 11”)"
+    },
+    {
+        "resolution": "820x1180",
+        "model": "iPad 10th gen"
+    },
+    {
+        "resolution": "428x926",
+        "model": "iPhone 14 Plus"
+    },
+    {
+        "resolution": "430x932",
+        "model": "iPhone 14 Pro Max"
+    },
+    {
+        "resolution": "393x852",
+        "model": "iPhone 14 Pro"
+    },
+    {
+        "resolution": "390x844",
+        "model": "iPhone 14"
+    },
+    {
+        "resolution": "375x667",
+        "model": "iPhone SE 3rd gen"
+    },
+    {
+        "resolution": "820x1180",
+        "model": "iPad Air (5th gen)"
+    },
+    {
+        "resolution": "390x844",
+        "model": "iPhone 13"
+    },
+    {
+        "resolution": "375x812",
+        "model": "iPhone 13 mini"
+    },
+    {
+        "resolution": "428x926",
+        "model": "iPhone 13 Pro Max"
+    },
+    {
+        "resolution": "390x844",
+        "model": "iPhone 13 Pro"
+    },
+    {
+        "resolution": "810x1080",
+        "model": "iPad 9th gen"
+    },
+    {
+        "resolution": "1024x1366",
+        "model": "iPad Pro (5th gen 12.9”)"
+    },
+    {
+        "resolution": "834x1194",
+        "model": "iPad Pro (5th gen 11”)"
+    },
+    {
+        "resolution": "820x1180",
+        "model": "iPad Air (4th gen)"
+    },
+    {
+        "resolution": "390x844",
+        "model": "iPhone 12"
+    },
+    {
+        "resolution": "375x812",
+        "model": "iPhone 12 mini"
+    },
+    {
+        "resolution": "428x926",
+        "model": "iPhone 12 Pro Max"
+    },
+    {
+        "resolution": "390x844",
+        "model": "iPhone 12 Pro"
+    },
+    {
+        "resolution": "810x1080",
+        "model": "iPad 8th gen"
+    },
+    {
+        "resolution": "375x667",
+        "model": "iPhone SE 2nd gen"
+    },
+    {
+        "resolution": "1024x1366",
+        "model": "iPad Pro (4th gen 12.9”)"
+    },
+    {
+        "resolution": "834x1194",
+        "model": "iPad Pro (4th gen 11”)"
+    },
+    {
+        "resolution": "810x1080",
+        "model": "iPad 7th gen"
+    },
+    {
+        "resolution": "414x896",
+        "model": "iPhone 11 Pro Max"
+    },
+    {
+        "resolution": "375x812",
+        "model": "iPhone 11 Pro"
+    },
+    {
+        "resolution": "414x896",
+        "model": "iPhone 11"
+    },
+    {
+        "resolution": "320x568",
+        "model": "iPod touch 7th gen"
+    },
+    {
+        "resolution": "744x1133",
+        "model": "iPad Mini (6th gen)"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad Mini (5th gen)"
+    },
+    {
+        "resolution": "834x1112",
+        "model": "iPad Air (3rd gen)"
+    },
+    {
+        "resolution": "1024x1366",
+        "model": "iPad Pro (3rd gen 12.9”)"
+    },
+    {
+        "resolution": "834x1194",
+        "model": "iPad Pro (3rd gen 11”)"
+    },
+    {
+        "resolution": "414x896",
+        "model": "iPhone XR"
+    },
+    {
+        "resolution": "414x896",
+        "model": "iPhone XS Max"
+    },
+    {
+        "resolution": "375x812",
+        "model": "iPhone XS"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad 6th gen"
+    },
+    {
+        "resolution": "375x812",
+        "model": "iPhone X"
+    },
+    {
+        "resolution": "414x736",
+        "model": "iPhone 8 Plus"
+    },
+    {
+        "resolution": "375x667",
+        "model": "iPhone 8"
+    },
+    {
+        "resolution": "1024x1366",
+        "model": "iPad Pro (2nd gen 12.9”)"
+    },
+    {
+        "resolution": "834x1112",
+        "model": "iPad Pro (2nd gen 10.5”)"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad 5th gen"
+    },
+    {
+        "resolution": "414x736",
+        "model": "iPhone 7 Plus"
+    },
+    {
+        "resolution": "375x667",
+        "model": "iPhone 7"
+    },
+    {
+        "resolution": "320x568",
+        "model": "iPhone SE 1st gen"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad Pro (1st gen 9.7”)"
+    },
+    {
+        "resolution": "1024x1366",
+        "model": "iPad Pro (1st gen 12.9”)"
+    },
+    {
+        "resolution": "414x736",
+        "model": "iPhone 6s Plus"
+    },
+    {
+        "resolution": "375x667",
+        "model": "iPhone 6s"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad mini 4"
+    },
+    {
+        "resolution": "320x568",
+        "model": "iPod touch 6th gen"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad Air 2"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad mini 3"
+    },
+    {
+        "resolution": "414x736",
+        "model": "iPhone 6 Plus"
+    },
+    {
+        "resolution": "375x667",
+        "model": "iPhone 6"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad mini 2"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad Air"
+    },
+    {
+        "resolution": "320x568",
+        "model": "iPhone 5C"
+    },
+    {
+        "resolution": "320x568",
+        "model": "iPhone 5S"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad 4th gen"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad mini"
+    },
+    {
+        "resolution": "320x568",
+        "model": "iPod touch 5th gen"
+    },
+    {
+        "resolution": "320x568",
+        "model": "iPhone 5"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad 3rd gen"
+    },
+    {
+        "resolution": "320x480",
+        "model": "iPhone 4S"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad 2"
+    },
+    {
+        "resolution": "320x480",
+        "model": "iPod touch 4th gen"
+    },
+    {
+        "resolution": "320x480",
+        "model": "iPhone 4"
+    },
+    {
+        "resolution": "768x1024",
+        "model": "iPad 1st gen"
+    },
+    {
+        "resolution": "320x480",
+        "model": "iPod touch 3rd gen"
+    },
+    {
+        "resolution": "320x480",
+        "model": "iPhone 3GS"
+    },
+    {
+        "resolution": "320x480",
+        "model": "iPod touch 2nd gen"
+    },
+    {
+        "resolution": "320x480",
+        "model": "iPhone 3G"
+    },
+    {
+        "resolution": "320x480",
+        "model": "iPod touch 1st gen"
+    },
+    {
+        "resolution": "320x480",
+        "model": "iPhone 1st gen}"
+    }
+]

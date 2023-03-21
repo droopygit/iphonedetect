@@ -1,7 +1,12 @@
 <html>
-    <script src="index.js">
+    
+    <script type="module" src="index.js"></script>
+    <script type="module">
+        import { init } from './index.js';
+        document.addEventListener('DOMContentLoaded', init);
     </script>
-    <body onload="init()">
+
+    <body>
         Modèle : <span id="device-model"></span><br>
     </body>
 
