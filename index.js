@@ -1,6 +1,6 @@
-import models from './models.json' assert { type: "json" };
-
-export function init() {
+export async function init() {
+    const response = await fetch('./models.json');
+    const models = await response.json();
     const screenWidth = window.screen.width;
     const screenHeight = window.screen.height;
     const resolution = `${screenWidth}x${screenHeight}`;
