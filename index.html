@@ -1,0 +1,12 @@
+<html>
+    <script>
+        function init() {
+            const screenWidth = window.screen.width;
+            const screenHeight = window.screen.height;
+            document.getElementById("device-model").innerHTML = `${screenWidth} x ${screenHeight}`;
+        }
+    </script>
+    <body onload="init()">
+        Modèle : <span id="device-model"></span><br>
+    </body>
+</html>
